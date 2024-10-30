@@ -5,8 +5,8 @@ Note: Node version `v22.11.0` was used when installing this project initially.
 
 # Getting Started
 
-
-In terminal, cd into `speechLinkAssessment` folder
+## Open App directory
+In terminal, cd into `app` folder
 
 
 ## Install the project dependencies
